@@ -16,6 +16,7 @@ h1, h2, h3, h4{
     padding: 25px;   
     font-size: 2.5em;
     font-family: "Merriweather", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    color: hsl(87, 41%, 50%);
 
 }
 a:link {
