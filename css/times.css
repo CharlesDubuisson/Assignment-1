@@ -9,6 +9,7 @@ html{
     font-size: 1em;
     line-height: 1.6;
     font-family: "Roboto", Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+    color: hsl(87, 41%, 50%);
 
 }
 h1, h2, h3, h4{
